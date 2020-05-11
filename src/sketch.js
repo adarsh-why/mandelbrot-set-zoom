@@ -2,7 +2,7 @@
 function setup() {
   origin = [-0.6, 0]
   range = 3
-  maxIter = 100
+  maxIter = 1000
   canvas = createCanvas(700, 700)
   canvas.parent("sketch-holder")
   pixelDensity(1)
